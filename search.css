@@ -5,27 +5,34 @@
 @description    Dark Google
 @author         Blodwedd
 ==/UserStyle== */
-
 @-moz-document domain("google.by") {
-    body, .gb_ba, .gb_Sb, .gb_Aa, #gb a.gb_Aa.gb_Aa, .gb_Ba, .RNNXgb, .aajZCb, .jhp input[type="submit"], .fbar, #fbar, .gb_va .gb_ea, #gb a.gb_fa, #hdtbSum, .hdtb-tl, #slim_appbar {
+    body, .gb_ba, .gb_Sb, .gb_Aa, #gb a.gb_Aa.gb_Aa, .gb_Ba, .RNNXgb, .aajZCb, .jhp input[type="submit"], .fbar, #fbar, .gb_va .gb_ea, #gb a.gb_fa, #hdtbSum, .hdtb-tl, #topabar, .hdtbU, .hdtbItm, .q.qs, .y8AWGd, .LhCR5d, .ab_button, .fl {
         background: #23272A !important;
     }
 
-    .gb_P, .gb_Mb, .gb_Aa, #gb a.gb_Aa.gb_Aa, .gb_Ba, #SIvCob, .gLFyf, .sbl1p, .jhp input[type="submit"], .Q8LRLc, .Fx4vi, .gb_Z, #gb a.gb_fa, .sbl1, .Cq34nf:hover, .q.qs:hover, .hdtb-tl, #slim_appbar {
+    .gb_P, .gb_Mb, .gb_Aa, #gb a.gb_Aa.gb_Aa, .gb_Ba, #SIvCob, .gLFyf, .sbl1p, .jhp input[type="submit"], .Q8LRLc, .Fx4vi, .gb_Z, #gb a.gb_fa, .sbl1, .Cq34nf:hover, .q.qs:hover, .hdtb-tl, #slim_appbar, .hdtb-mn-hd:hover, #cdrlnk:hover, .eJ7tvc, .med.dPAwzb, #swml-loc, .std, .st {
         color: #99AAB5 !important;
     }
 
-    .jhp input[type="submit"]:hover, .sbct:hover, .gb_T:hover .gb_Z {
-        background: #2C2F33;
+    .jhp input[type="submit"]:hover, .sbct:hover, .gb_T:hover .gb_Z, .hdtbItm:hover, #cdrlnk:hover, .LhCR5d:hover, .sbct.sbhl {
+        background: #2C2F33 !important;
+    }
+    
+    .q.qs, .LhCR5d:hover .PUDfGe.z1asCe.kKuqUd {
+        color: white;
     }
 
-    a {
-        color: #7289DA
+    a, .LC20lb, .iUh30, .mB12kf, .fl {
+        color: #7289DA !important;
     }
 
     .gb_ub, .gb_vb {
         border-width: 0 8.5px 8.5px;
         border-bottom-color: #23272A;
+    }
+    
+    .hdtb-mn-hd:hover .mn-dwn-arw {
+        border-color: #99aab5 transparent;
     }
 
     .b2hzT, #fbar, .gb_T:hover a {
@@ -36,5 +43,11 @@
         background-image: url(//github.com/timas130/dark-google/raw/master/icons-set.png);
         -webkit-background-size: 528px 68px;
         background-size: 528px 68px;
+    }
+    
+    .hdtbSel {
+        background-image: url(//github.com/timas130/dark-google/raw/master/checkmark.png) !important;
+        background-position: left center !important;
+        background-repeat: no-repeat !important;
     }
 }
