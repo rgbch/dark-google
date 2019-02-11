@@ -4,6 +4,8 @@
 @version        1.0.0
 @description    Dark Google
 @author         Blodwedd
+@homepageURL    https://github.com/timas130/dark-google
+@updateURL      https://raw.githubusercontent.com/timas130/dark-google/master/search.css
 ==/UserStyle== */
 @-moz-document domain("google.by") {
     body, .gb_ba, .gb_Sb, .gb_Aa, #gb a.gb_Aa.gb_Aa, .gb_Ba, .RNNXgb, .aajZCb, .jhp input[type="submit"], .fbar, #fbar, .gb_va .gb_ea, #gb a.gb_fa, #hdtbSum, .hdtb-tl, #topabar, .hdtbU, .hdtbItm, .q.qs, .y8AWGd, .LhCR5d, .ab_button, .fl {
