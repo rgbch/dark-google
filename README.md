@@ -7,4 +7,4 @@ Let's make google darker!
 * Create new usercss in Stylus and paste the content of the [usercss](https://raw.githubusercontent.com/timas130/dark-google/master/search.css)
 * Done!
 
-### Inspried by [GitHub Dark](https://github.com/StylishThemes/GitHub-Dark)
+### Inspried by [GitHub Dark](https://github.com/StylishThemes/GitHub-Dark) and [Discord Colors](https://discordapp.com/branding)
