@@ -6,7 +6,7 @@
 @author         Blodwedd
 ==/UserStyle== */
 
-@-moz-document regexp("https?:\\/\\/(www\\.)?google\\..{2,3}") {
+@-moz-document regexp("https?:\\/\\/(www\\.)?google\\..{2,3}\\/?.*") {
     body, .gb_ba, .gb_Sb, .gb_Aa, #gb a.gb_Aa.gb_Aa, .gb_Ba, .RNNXgb, .aajZCb, .jhp input[type="submit"], .fbar, #fbar, .gb_va .gb_ea, #gb a.gb_fa, #hdtbSum, .hdtb-tl, #topabar, .hdtbU, .hdtbItm, .q.qs, .y8AWGd, .LhCR5d, .ab_button, .fl, .sfbg.nojsv, .cdr_bg, .cdr_dlg, .jleFbf {
         background: #23272A !important;
     }
