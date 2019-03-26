@@ -7,7 +7,7 @@
 ==/UserStyle== */
 
 @-moz-document regexp("https?:\\/\\/(www\\.)?google\\..{2,3}\\/?.*") {
-    body, .gb_ba, .gb_Sb, .gb_Aa, #gb a.gb_Aa.gb_Aa, .gb_Ba, .RNNXgb, .aajZCb, .jhp input[type="submit"], .fbar, #fbar, .gb_va .gb_ea, #gb a.gb_fa, #hdtbSum, .hdtb-tl, #topabar, .hdtbU, .hdtbItm, .q.qs, .y8AWGd, .LhCR5d, .ab_button, .fl, .sfbg.nojsv, .cdr_bg, .cdr_dlg, .jleFbf, .vk_c, .gx4n6c {
+    body, .gb_ba, .gb_Sb, .gb_Aa, #gb a.gb_Aa.gb_Aa, .gb_Ba, .RNNXgb, .aajZCb, .jhp input[type="submit"], .fbar, #fbar, .gb_va .gb_ea, #gb a.gb_fa, #hdtbSum, .hdtb-tl, #topabar, .hdtbU, .hdtbItm, .q.qs, .y8AWGd, .LhCR5d, .ab_button, .fl, .sfbg.nojsv, .cdr_bg, .cdr_dlg, .jleFbf, .vk_c, .gx4n6c, .gb_C, .gb_D {
         background: #23272A !important;
     }
 
@@ -15,11 +15,11 @@
         color: #99AAB5 !important;
     }
 
-    .jhp input[type="submit"]:hover, .sbct:hover, .gb_T:hover .gb_Z, .hdtbItm:hover, #cdrlnk:hover, .LhCR5d:hover, .sbct.sbhl, .ksb, .cdr_highl, .ktf, .goog-date-picker, .cF4V5c, .y8Jpof:hover, .jleFbf:hover, .vk_sh, .vk_bk, .uWmgv, .WDySud {
+    .jhp input[type="submit"]:hover, .sbct:hover, .gb_T:hover .gb_Z, .hdtbItm:hover, #cdrlnk:hover, .LhCR5d:hover, .sbct.sbhl, .ksb, .cdr_highl, .ktf, .goog-date-picker, .cF4V5c, .y8Jpof:hover, .jleFbf:hover, .vk_sh, .vk_bk, .uWmgv, .WDySud, .gb_h:hover, .gb_h:hover .gb_m {
         background: #2C2F33 !important;
     }
     
-    .LhCR5d:hover .PUDfGe.z1asCe.kKuqUd, #knowledge-currency__tgt-amount {
+    .LhCR5d:hover .PUDfGe.z1asCe.kKuqUd, #knowledge-currency__tgt-amount, .gb_1 {
         color: white !important;
     }
 
@@ -36,11 +36,11 @@
         border-color: #99aab5 transparent;
     }
 
-    .b2hzT, #fbar, .gb_T:hover a, .H73aad {
-        border: none;
+    .b2hzT, #fbar, .gb_T:hover a, .H73aad, .gb_c {
+        border: none !important;
     }
 
-    .gb_xc {
+    .gb_xc, .gb_0b {
         background-image: url(//github.com/timas130/dark-google/raw/master/icons-set.png);
         -webkit-background-size: 528px 68px;
         background-size: 528px 68px;
